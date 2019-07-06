@@ -1,0 +1,7 @@
+{
+    "**/*.+(js|md|ts|css|sass|graphql|yml|yaml|scss|json)": [
+            "yarn run lint",
+            "yarn run pretty",
+            "git add"
+        ]
+}
